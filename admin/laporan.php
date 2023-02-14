@@ -10,8 +10,10 @@
         <td>Tahun SPP</td>
         <td>Nominal Dibayar</td>
         <td>Sudah Dibayar</td>
+        <td>Kekurangan</td>
         <td>Tanggal Dibayar</td>
         <td>Petugas</td>
+
 
     </tr>
     <?php
